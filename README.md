@@ -1,41 +1,42 @@
-# 👨‍💻 Tanmay Wagh 
-### Computer Science Student | Aspiring Full-Stack Engineer
+# Hi there, I'm Tanmay Wagh! 👋
+
+### 👨‍💻 Software Engineer Intern | B.Tech CS Student
+
+I am a motivated developer passionate about building software that makes a difference. Currently, I am sharpening my skills in **Full-Stack MERN development** and working on AI-integrated applications.
 
 ---
 
-### 🚀 Quick Bio
-[cite_start]I am a detail-oriented developer pursuing my **B.Tech in Computer Science**[cite: 4, 6]. [cite_start]I enjoy building tools that solve real-world problems, ranging from **AI Voice Assistants** [cite: 22] [cite_start]to **Speech-to-Text** applications using Google Cloud APIs[cite: 18, 19].
+### 🛠️ Tech Stack
 
-- [cite_start]💼 **Recent Experience:** Software Engineer Intern at **Sumago Infotech**[cite: 13].
-- [cite_start]🎓 **Education:** Completed Diploma in Computer Engineering (2024)[cite: 7].
-- [cite_start]🛠️ **Currently Learning:** Deep-diving into **Full-Stack MERN Development**.
+**Languages & Core:**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
----
-
-### 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+**Frameworks & Tools:**
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-### 🌟 Featured Projects
-* [cite_start]**Speech-to-Text GUI** – A Python-based interface for Indian languages using Google Cloud API[cite: 18, 20].
-* [cite_start]**AI Voice Assistant** – Integrated multiple APIs for enhanced functionality[cite: 22].
-* [cite_start]**Personal Portfolio** – Built with Django to showcase my software journey[cite: 21].
+### 🚀 Key Projects
+
+* [cite_start]**Speech-to-Text GUI:** A Python application supporting Indian languages using Google Cloud API[cite: 18, 19, 20].
+* [cite_start]**AI Voice Assistant:** An intelligent assistant with integrated APIs for enhanced task automation[cite: 22].
+* [cite_start]**Django Portfolio:** A personalized web platform to showcase my engineering journey[cite: 21].
 
 ---
 
-### 📊 GitHub Stats
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME_HERE&layout=compact&theme=radical)
+### 💼 Experience & Education
+
+* [cite_start]**Experience:** Software Engineer Intern at Sumago Infotech, focusing on Python development and code quality[cite: 13, 15, 16].
+* [cite_start]**Education:** Pursuing B.Tech in Computer Science at Shreeyash College of Engineering[cite: 6].
+* [cite_start]**Certification:** Completed Diploma in Computer Engineering (2024)[cite: 7].
 
 ---
 
-### 📫 Let's Connect!
-- [cite_start]📧 **Email:** twagh2101@gmail.com [cite: 2]
-- [cite_start]💼 **LinkedIn:** [tanmay-wagh-5033b8391](https://linkedin.com/in/tanmay-wagh-5033b8391) [cite: 2]
+### 📫 Let's Connect
+- **LinkedIn:** [In/tanmay-wagh-5033b8391](https://linkedin.com/in/tanmay-wagh-5033b8391)
+- **Email:** twagh2101@gmail.com
