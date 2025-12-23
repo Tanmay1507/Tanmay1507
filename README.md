@@ -31,8 +31,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmay-wagh-5033b8391&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-wagh-5033b8391&layout=compact&theme=radical)
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME_HERE&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME_HERE&layout=compact&theme=radical)
 
 ---
 
