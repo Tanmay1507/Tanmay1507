@@ -26,7 +26,7 @@ I am a detail-oriented developer who loves building and containerizing applicati
 * [cite_start]**Speech-to-Text GUI:** Built a Python interface for Indian languages using Google Cloud API[cite: 18, 20].
 * [cite_start]**AI Voice Assistant:** Integrated various APIs for a smarter task-automation experience[cite: 22].
 * [cite_start]**Personal Portfolio:** A Django-based project to centralize my work and skills.
-
+* [cite_start]**Chrome Extension:** A Chrome extension that customized you chrome landing page .
 ---
 
 ### 💼 Professional Snapshot
